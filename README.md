@@ -1,6 +1,6 @@
 # musicapp
 
-> d
+> 撸出来的Vue音乐app，有学到很多东西
 
 ## Build Setup
 
