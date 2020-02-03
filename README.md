@@ -1,6 +1,6 @@
 # musicapp
 
-> 撸出来的Vue音乐app，有学到很多东西
+> 在校期间 自主学习研发的一款webapp Music
 
 ## Build Setup
 
